@@ -1,13 +1,13 @@
-# Hi 👋, Esmattoha here...
+![Building complete products. Solving real problems with AI. Explore, build, learn, share. Play with AI.](assets/profile-banner.png)
 
-A software engineer and Backend developer from India.
+# Hi, I’m Esmattoha (Dipu)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=esmattoha&count_private=true"/>
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmattoha&layout=compact"/> -->
+**Product Developer | Building Complete Products with AI**
 
+I turn ideas into useful products and use AI to solve real-world problems. My work spans frontend experiences, backend functionality, database management, and bringing everything together into a working solution.
 
-<img alt="Nodejs" align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+I love exploring new AI tools, testing ideas, and finding practical ways to simplify workflows and solve problems. Through **[Play with AI](https://www.youtube.com/@dipu-play-with-ai)**, I share hands-on experiments, useful tools, and lessons from building with AI.
 
-<img alt="Vuejs" align="left" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+Follow along for practical AI exploration, product-building experiments, and real-world problem solving.
 
-<img alt="Typescript" align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+[Explore my work](https://www.esmattoha.com/) · [Play with AI](https://www.youtube.com/@dipu-play-with-ai) · [LinkedIn](https://www.linkedin.com/in/esmattoha/) · [X](https://x.com/EsmattohaM)
